@@ -6,16 +6,16 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "sivid_memes.aternos.me",
+    "port": 42362,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 706,
+    "y": 82,
+    "z": 123
   },
   "utils": {
     "auto-auth": {
